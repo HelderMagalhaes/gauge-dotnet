@@ -89,7 +89,7 @@ To install the the dotnet plugin use(Note, this will uninstall gauge-dotnet befo
 ./run.cmd|./run.sh package
 ````
 
-New distribution details need to be updated in the dotnet-install.json file in  [gauge plugin repository](https://github.com/getgauge/gauge-repository) for a new verison update.
+New distribution details need to be updated in the dotnet-install.json file in  [gauge plugin repository](https://github.com/getgauge/gauge-repository) for a new version update.
 
 ## License
 
